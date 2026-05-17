@@ -1,5 +1,8 @@
 # Tugas Praktikum Modul 7 – Logic Gate TinkerCard
-
+Amartia Ma'rufi Permata Dewi_H1H025024
+Isnanisa Rasyidah_H1H025028
+Zayyan Khairul Aziz_H1H025067
+https://www.tinkercad.com/things/7AV2Ta3SKN9-amartia/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=dDZUnebaJMyixgnRWqHaiKlvTAc5JnXFUD2RaSeVI30
 ---
 
 ## 1. AND
