@@ -1,5 +1,9 @@
 # Tugas Praktikum Modul 7 – Logic Gate TinkerCard
 
+Amartia Ma'rufi Permata Dewi_H1H025024
+Isnanisa Rasyidah_H1H025024
+Zayyan Khairul Aziz_H1H025067
+
 ---
 
 ## 1. AND
